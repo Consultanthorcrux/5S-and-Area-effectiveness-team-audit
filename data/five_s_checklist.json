@@ -1,0 +1,128 @@
+[
+  {
+    "number": 1,
+    "title": "Sort ( Select )",
+    "items": [
+      {
+        "id": "1.1",
+        "checkpoint": "Only the required parts, materials, WIP and stock present in the work area"
+      },
+      {
+        "id": "1.2",
+        "checkpoint": "Only the required tools and equipment are present in the work area"
+      },
+      {
+        "id": "1.3",
+        "checkpoint": "Only the required paperwork is present in the work area (signage)"
+      },
+      {
+        "id": "1.4",
+        "checkpoint": "Unnecessary items (furniture, shelves etc.) been removed from the general area"
+      },
+      {
+        "id": "1.5",
+        "checkpoint": "Has Red tag / Problem area concept being practiced / People are aware of it?"
+      },
+      {
+        "id": "1.6",
+        "checkpoint": "Is there no obsolete or old information ( order paperwork , bulletins , work instructions , standards , charts / graphs , etc. ) at the work station , in cabinets , on shelves , or on display boards ?"
+      }
+    ]
+  },
+  {
+    "number": 2,
+    "title": "Set in Order ( Straighten )",
+    "items": [
+      {
+        "id": "2.1",
+        "checkpoint": "Locations for all parts, WIP and stock are clearly defined and labelled"
+      },
+      {
+        "id": "2.2",
+        "checkpoint": "Equipment and Tools are properly labelled and have a clearly defined storage location"
+      },
+      {
+        "id": "2.3",
+        "checkpoint": "Paperwork is properly labelled and has a clearly defined location available"
+      },
+      {
+        "id": "2.4",
+        "checkpoint": "Walkways, access to equipment, and work area boundaries are clearly defined and labelled"
+      },
+      {
+        "id": "2.5",
+        "checkpoint": "Are items at the workstation arranged by usage frequency and per ergonomic best practices ? Are the most frequently used items the easiest to reach at the workstation ?"
+      },
+      {
+        "id": "2.6",
+        "checkpoint": "Are signs in good repair ? Is the floor tape (if any) securely in place ? Are labels in good repair ? Is utility and PC wiring neatly routed ?"
+      }
+    ]
+  },
+  {
+    "number": 3,
+    "title": "Shine ( Work Place Cleanliness )",
+    "items": [
+      {
+        "id": "3.1",
+        "checkpoint": "Is the shop floor clean and free of trash ?"
+      },
+      {
+        "id": "3.2",
+        "checkpoint": "Are the workstations and equipment clean ? Are the computer , printer , monitor , keyboard , and mouse clean ? Is all machinery clean ?"
+      },
+      {
+        "id": "3.3",
+        "checkpoint": "Are all forklifts and other material handling equipment clean ?"
+      },
+      {
+        "id": "3.4",
+        "checkpoint": "Are all pedestrian aisles clear and free of obstacles and trip hazards ? Are all drive aisles free of obstacles ?"
+      },
+      {
+        "id": "3.5",
+        "checkpoint": "Is all required cleaning equipment available & at designated place ( shadow board , cabinet , etc. )?"
+      }
+    ]
+  },
+  {
+    "number": 4,
+    "title": "Standardize ( Making directions a rule )",
+    "items": [
+      {
+        "id": "4.1",
+        "checkpoint": "Are work area maintenance standard / SOPs prepared / Displayed? Work instructions and acceptance standards are correct, relevant"
+      },
+      {
+        "id": "4.2",
+        "checkpoint": "Have specific cleaning tasks been assigned? Are trash bins and scrap/recycle containers emptied on a regular basis with defined frequency?"
+      },
+      {
+        "id": "4.3",
+        "checkpoint": "Do the associates know and understand 5S ? When asked , do they know the standard process , checklist cleaning rules , process confirmation , etc. ) ?"
+      }
+    ]
+  },
+  {
+    "number": 5,
+    "title": "Sustain ( Adhering to all Points and Improving them )",
+    "items": [
+      {
+        "id": "5.1",
+        "checkpoint": "Audit Open point list maintained and shared with all the concerned personnel & Tracked for closure regularly"
+      },
+      {
+        "id": "5.2",
+        "checkpoint": "Recognition is given to teams who get involved in 5S activities"
+      },
+      {
+        "id": "5.3",
+        "checkpoint": "Time and resources are continually allocated to 5S activities"
+      },
+      {
+        "id": "5.4",
+        "checkpoint": "Has the team improved items that were not already identified on the pervious audit"
+      }
+    ]
+  }
+]
